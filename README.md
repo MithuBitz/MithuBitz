@@ -4,9 +4,9 @@
 </p>
 
 <!-- ⭐ STAR THIS REPO! ⭐ -->
-![GitHub stars](https://img.shields.io/github/stars/yourusername/awesome-repo.svg?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/awesome-repo.svg?style=social)
-![Contributions](https://img.shields.io/github/contributors/yourusername/awesome-repo.svg)
+![GitHub stars](https://img.shields.io/github/stars/MithuBitz/awesome-repo.svg?style=social)
+![GitHub forks](https://img.shields.io/github/forks/MithuBitz/awesome-repo.svg?style=social)
+![Contributions](https://img.shields.io/github/contributors/MithuBitz/awesome-repo.svg)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 <!-- Typing Intro -->

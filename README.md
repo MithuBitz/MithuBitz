@@ -9,17 +9,12 @@
 ![Contributions](https://img.shields.io/github/contributors/MithuBitz/awesome-repo.svg)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-<!-- Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;💡+Open+Source+Enthusiast;⚡+Tech+Explorer;🔥+Building+Cool+Stuff+Daily" />
-</p>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,mongodb,postgres,python,docker,aws,git,linux,vscode&perline=8" /> </p>
 
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=MithuBitz&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MithuBitz&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithuBitz&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 
-🏆 Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MithuBitz&theme=tokyonight&no-frame=true&row=1&column=6"/> </p>
+📫 How to reach me ... [mithubortamuly@gmail.com](mailto:mithubortamuly@gmail.com)
 ---
 
 ## 🧠 About Me

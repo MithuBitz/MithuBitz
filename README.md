@@ -12,8 +12,7 @@
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,mongodb,postgres,python,docker,aws,git,linux,vscode&perline=8" /> </p>
 
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=MithuBitz&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MithuBitz&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithuBitz&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-
+<p align="center">  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MithuBitz&theme=tokyonight&hide_border=true"/> </p> 
 📫 How to reach me ... [mithubortamuly@gmail.com](mailto:mithubortamuly@gmail.com)
 ---
 

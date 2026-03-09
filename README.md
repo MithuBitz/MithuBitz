@@ -23,7 +23,7 @@ Name: Mithu Bortamuly
 Role: Full Stack Developer
 Location: Earth 🌍
 Focus: Scalable Web Apps & Cloud
-Currently Learning: System Design & DevOps
+Currently Learning: System Design & DevOps & GenAI
 Fun Fact: I debug with console.log 😄
 
 

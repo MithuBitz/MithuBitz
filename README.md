@@ -15,11 +15,11 @@
 <p align="center">  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MithuBitz&theme=tokyonight&hide_border=true"/> </p> 
 
 ---
-📫 How to reach me ...[mithubortamuly](mailto:mithubortamuly@gmail.com)
+📫 How to reach me ...[mitbitz](mailto:mibitstech@gmail.com)
 ## 🧠 About Me
 
 ```yaml
-Name: Mithu Bortamuly
+Name: MitBitz
 Role: Full Stack Developer
 Location: Earth 🌍
 Focus: Scalable Web Apps & Cloud

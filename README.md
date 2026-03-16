@@ -13,9 +13,9 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,mongodb,postgres,python,docker,aws,git,linux,vscode&perline=8" /> </p>
 
 <p align="center">  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MithuBitz&theme=tokyonight&hide_border=true"/> </p> 
-📫 How to reach me ... [mithubortamuly](mailto:mithubortamuly@gmail.com)
----
 
+---
+📫 How to reach me ...[mithubortamuly](mailto:mithubortamuly@gmail.com)
 ## 🧠 About Me
 
 ```yaml

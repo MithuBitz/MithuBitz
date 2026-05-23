@@ -10,7 +10,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,mongodb,postgres,python,docker,aws,git,linux,vscode&perline=8" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,mongodb,postgres,python,docker,aws,git,expo,linux,vscode&perline=8" /> </p>
 
 <p align="center">  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MithuBitz&theme=tokyonight&hide_border=true"/> </p> 
 
